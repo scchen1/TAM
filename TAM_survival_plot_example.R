@@ -128,7 +128,7 @@ KMplot(datin=datin,time=time,event=event,group=group,
        x.lab= "Months",y.lab=y.lab,
        HR.x=1, HR.y=0.2, #position for HR
        ci.TF=FALSE,
-       pval.xy=c(1,0.1), #position for p value
+       pval.xy=c(1,0.08), #position for p value
        p.value=TRUE 
       # add.HR=add.HR
        )
